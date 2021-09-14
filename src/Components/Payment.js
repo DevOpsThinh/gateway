@@ -1,12 +1,16 @@
 /**
  * Topic: Designing a Payment Gateway for Online Merchants
  * src/Components/Payment.js
- *
+ * Renders a payment page.
  *
  * Author: DevOpsThinh
  * Created At: 13/ 9/ 2021
  */
 import React from "react";
+
+// ------------------------------------------------------- //
+//                  Local components                      //
+// ----------------------------------------------------- //
 import Timer from "./Timer";
 
 function Payment(props) {
